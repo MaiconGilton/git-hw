@@ -4,3 +4,5 @@ Favorite Color: Gray
 Dream Job: Software Engineer At SpaceX
 Current City: Vancouver
 Favorite Food: Yakisoba
+Favorite Movie: The lord of the rings
+Favorite Music: Amazing grace/Chris Tomlin
