@@ -1,5 +1,32 @@
-Sumitomo Chemical
-Origeo CRM
-AgendamentosPop 
-Casacor
-Amateur Golf Challenge 
+Globant | Sr. Web UI developer
+AUG 2021 - DEC 2024 
+ - Developed applications using React.js.  
+ - Developed customizable web pages with Salesforce Lightning components. 
+ - Implemented changes on existing e-commerces web pages to create marketing campaigns on the Salesforce Marketing Cloud Platform.
+ 
+ * Key Skills:  React.js, HTML, Salesforce, CCS, JavaScript
+
+AgendamentosPop | Sr. Full-stack developer
+SET 2023 - DEC 2024 
+ - Developed an iOS and Android application using React Native, allowing clients to create appointments for barber shops, hair salons, pet shops, etc. 
+ - Designed RESTful backend server in Node.js and Docker to work in conjunction with the website and mobile application.
+ - Responsible for the software development life cycle (end-to-end).
+ - Responsible for the setup of the back-end infrastructure, using Ubuntu server hosted on Oracle Server.
+ * Key Skills: React Native, Node.js, Docker, Oracle
+
+Casacor | Sr. Full-stack developer
+SET 2022 - AUG 2023 
+ - Implemented a web platform to sell tickets.
+ - Implemented dashboard panel to manage business the entire application.
+ - Developed an iOS and Android application using React Native.Developed an Android application using React Native, to integrate a native SDK of a payment gateway in a credit-card machine, allowing employees to sell tickets in a custom and easy interface. 
+ - Designed RESTful backend server in Node.js and Docker to work in conjunction with the website, dashboard panel and mobile application.
+ - Responsible for the software development life cycle (end-to-end), system analysis, and mentoring of 2 junior developers.
+ - Responsible for the setup of the back-end infrastructure, using Ubuntu server hosted on AWS.
+ * Key Skills: React.js, React Native, Node.js, Docker, AWS
+
+Amateur Golf Challenge | Sr. Mobile developer
+AUG 2021 - NOV 2022 
+ - Developed an iOS and Android application using React Native, allowing amateur golfers in Australia participate in golf bets. 
+ - Configure, upload and maintain the application updated in their respective stores.
+ - Responsible for the mobile development following a figma model.
+ * Key Skills: React Native, Figma
