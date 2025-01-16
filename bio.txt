@@ -6,3 +6,6 @@ Current City: Vancouver
 Favorite Food: Yakisoba
 Favorite Movie: The lord of the rings
 Favorite Music: Amazing grace/Chris Tomlin
+Languages:
+- Portuguese
+- English
