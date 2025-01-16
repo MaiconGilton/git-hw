@@ -1,0 +1,14 @@
+Professional Experience:
+1. Web UI developer
+   Company: Globant
+   Duration: 3 years and 4 months
+   Key Responsibilities:
+   - Create high quality web interfaces using React
+   - Attend all meetings
+
+2. Fullstack developer
+   Company: MGSF solucoes em Ti
+   Duration: 2 years
+   Key Responsibilities:
+   - Develop mobile application for a SAAS (online booking app)
+   - Develop website to users make appointments
