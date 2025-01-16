@@ -9,3 +9,7 @@ Favorite Music: Amazing grace/Chris Tomlin
 Languages:
 - Portuguese
 - English
+Skills:
+- React.js
+- Node.js
+- Next.js
