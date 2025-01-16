@@ -6,3 +6,7 @@ Current City: Vancouver
 Favorite Food: Yakisoba
 Favorite Movie: The lord of the rings
 Favorite Music: Amazing grace/Chris Tomlin
+Skills:
+- React.js
+- Node.js
+- Next.js
